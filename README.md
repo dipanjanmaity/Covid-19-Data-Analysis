@@ -14,7 +14,7 @@ This depository contains the analysis of Covid-19 Dataset and a Dashboard showin
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Raw Data Files** | The JSON data that was gathered from the COVID-19 website for analysis is contained in this folder. |
-| **Python And Sql Files** | This folder provides you files that I used to Extract all data from APIs through Python. And SQL queries written to get insights |
+| **Python Code And Sql Files** | This folder provides you files that I used to Extract all data from APIs through Python. And SQL queries written to get insights |
 | **Presentation Folder**  | You can view all the insights I discovered after doing my task in a PDF file that is contained in this folder. |
 | **Excel Folder**  | This folder includes an Excel file where I've performed several analyses and produced various charts utilising the information I've obtained from the database using SQL. Finally, the Dashboard |
 
