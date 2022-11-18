@@ -50,6 +50,13 @@ This depository contains the analysis of Covid-19 Dataset and a Dashboard showin
 <p align="center"><img src="https://user-images.githubusercontent.com/79499162/202651096-c69cd77a-c639-4e1e-be0d-b43bac1e8fff.png" width="450" height="450"/>
 
 
+<br>
+
+## <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Google Drive Link :
+
+- All the necessary data in one folder: [Click here](https://drive.google.com/drive/folders/1IXP5HiZl7vmne8104wTzrfVQBtsNddwV?usp=share_link)
+
+
 ##  :arrow_right: LinkedIN Profile
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanjan-maity/)
