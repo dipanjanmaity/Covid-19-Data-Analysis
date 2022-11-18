@@ -1,4 +1,4 @@
-# Covid-19 Analysis using Python,SQL and Excel
+# Covid-19 Data Analysis using Python,SQL and Excel
 
 The Coronavirus Disease Pandemic of 2019 (COVID-19) serves as a timely reminder of the characteristics and consequences of public health emergencies of global relevance.India had reported more than 5.28 Lakh deaths and over 4.45 crore cases as of September 12, 2022.This study's goal is to examine the COVID-19 pandemic's variable manifestation in order to draw conclusions for an efficient public health emergency response.
 <br>
