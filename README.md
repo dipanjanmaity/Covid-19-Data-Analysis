@@ -37,14 +37,14 @@ This depository contains the analysis of Covid-19 Dataset and a Dashboard showin
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-    1. Started with reading the JSON files in python and converting it into CSV.
-    2. Did the data cleaning part with the help of pandas and imported the CSVs into SQL for furthur analysis.
-    3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out. Also used some of the aggregate functions like sum, average , count along with pivot and subqueries for the aggregation of data.
-    4. Exported all the tables from SQL to excel and created required tables to gain some insights.
-    5. Created the different charts from the table for better understanding of the data.
-    6. Also Designed a interactive dashboard from the charts for better visualisation.    
-    7. Created some useful drop-downs for fetching the required data like state wise active,recovered covid cases scenario. 
-    8. Created a powerpoint presentation with all the insights and conclusions listed with the indepth analysis.
+1. Started with reading the JSON files in python and converting it into CSV.
+2. Did the data cleaning part with the help of pandas and imported the CSVs into SQL for furthur analysis.
+3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out. Also used some of the aggregate functions like sum, average , count along with pivot and subqueries for the aggregation of data.
+4. Exported all the tables from SQL to excel and created required tables to gain some insights.
+5. Created the different charts from the table for better understanding of the data.
+6. Also Designed a interactive dashboard from the charts for better visualisation.    
+7. Created some useful drop-downs for fetching the required data like state wise active,recovered covid cases scenario. 
+8. Created a powerpoint presentation with all the insights and conclusions listed with the indepth analysis.
     
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79499162/202651096-c69cd77a-c639-4e1e-be0d-b43bac1e8fff.png" width="450" height="450"/>
