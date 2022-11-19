@@ -1,4 +1,4 @@
-# <img src=https://user-images.githubusercontent.com/79499162/202837296-96d98ffd-4fbf-4445-9cec-1c5571081310.png width="130"  height="130" > Covid-19 Data Analysis using Python,SQL and Excel
+# <img src=https://user-images.githubusercontent.com/79499162/202837296-96d98ffd-4fbf-4445-9cec-1c5571081310.png width="120"  height="120" > Covid-19 Data Analysis using Python,SQL and Excel
 
 
 
