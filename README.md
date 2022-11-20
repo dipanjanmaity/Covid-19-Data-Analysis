@@ -8,7 +8,7 @@ The Coronavirus Disease Pandemic of 2019 (COVID-19) serves as a timely reminder 
 This depository contains the analysis of Covid-19 Dataset and a Dashboard showing the spread of COVID-19 in India and it's States.
 <br>
 
-<p align="center"><a href="https://www.python.org/"><img src= https://forthebadge.com/images/badges/made-with-python.svg><img  height = "35" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><img height = "35" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></p>
+<p align="center"><a href="https://www.python.org/"><img src= https://forthebadge.com/images/badges/made-with-python.svg><img  height = "35" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><img height = "35" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></p>
 
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
